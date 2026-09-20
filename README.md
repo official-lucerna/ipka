@@ -6,7 +6,7 @@ Master everything you want to learn, all in one place effortlessly and with comp
 # ⚙️ Installations
 ## Github
 ```
-git clone https://github.com/firstdecree/ipka
+git clone https://github.com/official-lucerna/ipka
 ```
 
 ## NpmJS
